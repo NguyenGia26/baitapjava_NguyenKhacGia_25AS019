@@ -12,6 +12,23 @@ public class Circle {
         this.radius = r;
     }
 
+    public Circle(String c) {
+        this.color = c;
+    }
+
+    public Circle(double r, String c) {
+        this.radius = r;
+        this.color = c;
+    }
+
+    public void setRadius(double radius) {
+        this.radius = radius;
+    }
+
+    public void setColor(String color) {
+        this.color = color;
+    }
+
     public double getRadius() {
         return radius;
     }
@@ -22,5 +39,13 @@ public class Circle {
 
     public double getArea() {
         return Math.PI * radius * radius;
+    }
+
+    @Override
+    public String toString() {
+        return "Circle{" +
+                "radius=" + radius +
+                ", color='" + color + '\'' +
+                '}';
     }
 }
