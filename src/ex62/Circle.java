@@ -26,6 +26,7 @@ public class Circle implements GeometricObject {
         // Yêu cầu trong ảnh: "Circle[radius=r]"
         return "Circle[radius=" + radius + "]";
     }
+
 }
 
 

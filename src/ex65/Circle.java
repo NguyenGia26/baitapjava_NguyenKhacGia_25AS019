@@ -1,3 +1,4 @@
+/*
 package ex65;
 
 public class Circle implements GeometricObject  {
@@ -21,3 +22,4 @@ public class Circle implements GeometricObject  {
         return 0;
     }
 }
+*/
