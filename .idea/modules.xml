@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Baitapjava.iml" filepath="$PROJECT_DIR$/Baitapjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThucHanhCode/ThucHanhCode.iml" filepath="$PROJECT_DIR$/ThucHanhCode/ThucHanhCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../testcodekhihoc/hocdethuchanh/test.iml" filepath="$PROJECT_DIR$/../../testcodekhihoc/hocdethuchanh/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThucHanhCode/untitled/untitled.iml" filepath="$PROJECT_DIR$/ThucHanhCode/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
